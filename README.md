@@ -8,3 +8,11 @@ The Smart Seed Sprayer Robot is an Arduino-based automation system designed for 
 - DC motor control using motor driver
 - Servo-controlled seed dispensing
 - I2C LCD for real-time status display
+## Components Used
+- Arduino Uno
+- DC motors
+- Motor driver (L298N / L293D)
+- Servo motor
+- 4x4 Keypad
+- 16x2 I2C LCD
+- Power supply
