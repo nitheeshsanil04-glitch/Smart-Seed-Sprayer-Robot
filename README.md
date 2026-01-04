@@ -22,3 +22,8 @@ The Smart Seed Sprayer Robot is an Arduino-based automation system designed for 
 3. The robot moves in a grid-based pattern using DC motors.
 4. At predefined points, the servo motor opens to dispense seeds.
 5. The process continues until the entire field is covered.
+## Future Improvements
+- Obstacle detection using sensors
+- Bluetooth or mobile app control
+- GPS-based navigation
+- Soil moisture–based seed dispensing
